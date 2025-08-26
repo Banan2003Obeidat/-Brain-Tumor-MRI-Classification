@@ -10,7 +10,7 @@ Meningioma Tumor
 Pituitary Tumor
 No Tumor
 Total Images: 7022 (approx.)
-- - - 
+-  
 
 
 
