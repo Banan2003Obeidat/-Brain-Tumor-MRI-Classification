@@ -3,7 +3,7 @@ This project aims to classify brain tumors using deep learning models on MRI sca
 
 ## 📊 Dataset
 Source: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
-''' 
+- 
 Classes:
 Glioma Tumor
 Meningioma Tumor
